@@ -1,0 +1,51 @@
+
+.body {
+    font:20px Arial,serif;
+}
+
+.navbar {
+    background-color:skyblue;
+}
+
+.quem-somos{
+    background-color:dimgrey;
+    color: white;
+}
+
+/*margin de tudo*/
+.margin-nav {
+    padding-bottom: 50px;
+}
+
+.margin {  /* margin-top cria uma margem com espacamento ja o padding no*/
+    padding-bottom: 50px;
+}
+
+.margin2 {
+    padding-bottom: 50px;
+}
+
+.margin3 {
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+
+.margin-div2 {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.margin-div3 {
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.parceiros {
+    background-color: turquoise;
+    color: tomato;
+}
+
+.bg-footer {
+    background-color: black;
+    color: white;
+}
